@@ -8,8 +8,8 @@ dd_build_site <- function(website_path, dd_file){
   usethis::create_package(path = website_path, check_name = FALSE, open = FALSE)
   setwd(paste(getwd(), website_path, sep= "/"))
   dd <- dd_read(dd_file = dd_file)
-  update_yaml(dd = dd)
   usethis::use_pkgdown()
+  update_yaml(dd = dd)
   # this where my functions will read in data dictionary and project info
   # create documentation for each column
   # use project information to develop readme

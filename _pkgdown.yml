@@ -1,0 +1,34 @@
+reference:
+- title: "My First Instrument"
+- subtitle: ""
+    - record_id
+    - unvalidated_text
+    - date_dmy
+    - date_mdy
+    - date_ymd
+    - datetime_dmyhm
+    - datetime_mdyhm
+    - datetime_ymdhm
+    - datetime_dmyhms
+    - datetime_mdyhms
+    - datetime_ymdhms
+- subtitle: "Non Date Fields"
+    - email
+    - integer
+    - number
+    - phone
+    - time
+    - zip
+    - notes
+    - calculated
+    - dropdown_numeric
+    - dropdown_character
+    - dropdown_mixed
+    - radio_buttons
+    - checkbox
+    - yes_no
+    - true_false
+    - signature_draw
+    - file_upload
+    - slider
+    - descriptive_text
