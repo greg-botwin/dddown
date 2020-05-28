@@ -1,0 +1,1579 @@
+- title: contact
+- subtitle: Contact
+- contents:
+- addresscontact
+- citycontact
+- statecontact
+- zipcontact
+- countrycontact
+- phone_numbercontact
+- cell_phone_numbercontact
+- email_addresscontact
+- title: coordinator_interview_form
+- subtitle: CURRENT DIAGNOSIS
+- contents:
+- current_diagnosis
+- other_diagnosis_conditions
+- title: coordinator_interview_form
+- subtitle: Ethnicity: Hispanic
+- contents:
+- ethnicity_hispanic_patient
+- ethnicity_hispanic_father
+- ethnicity_hispanic_fathers_father
+- ethnicity_hispanic_fathers_mother
+- ethnicity_hispanic_mother
+- ethnicity_hispanic_mothers_mother
+- ethnicity_hispanic_mothers_father
+- title: coordinator_interview_form
+- subtitle: IBD Family MEDICAL HISTORY
+- contents:
+- your_biological_family_member_s_ever_had_ibd
+- coordinator_interview_relation_to_patient1
+- coordinator_interview_relation_to_patient
+- coordinator_interview_relation_to_patient2
+- coordinator_interview_relation_to_patient_2
+- coordinator_interview_relation_to_patient3
+- coordinator_interview_relation_to_patient_3
+- coordinator_interview_comments
+- title: coordinator_interview_form
+- subtitle: Jewish
+- contents:
+- jewish_patient
+- jewish_father
+- jewish_fathers_father
+- jewish_fathers_mother
+- jewish_mother
+- jewish_mothers_mother
+- jewish_mothers_father
+- title: coordinator_interview_form
+- subtitle: KEY DATA
+- contents:
+- what_age_first_ibd_like_symptoms
+- what_age_were_you_diagnosed_with_ibd
+- initial_diagnosis_was
+- have_you_ever_had_any_ibd_surgery
+- have_you_smoked_at_least_100_cigarettes_or_50_cigars_pipes_in_your_life
+- do_you_currently_smoke
+- smoking_at_time_of_initial_diagnosis
+- are_you_a_twin
+- twin_type
+- title: coordinator_interview_form
+- subtitle: Race
+- contents:
+- patient_race
+- father_race
+- father_s_father_race
+- father_s_mother_race
+- mother_race
+- mother_s_mother
+- mother_s_father
+- title: coordinator_interview_form
+- subtitle: NA
+- contents:
+- date_of_visit
+- title: demographic
+- subtitle: Subject Information
+- contents:
+- last_name
+- first_name
+- middle_name
+- former_name
+- date_of_birth
+- year_of_birth
+- gender
+- mrn
+- trics_subject_id
+- participant_id
+- genetics_id
+- lab_control_id
+- pr_unique_id
+- csmc_employee_id
+- payroll_code
+- patient_type
+- withdrawal_details
+- deceased
+- decease_date
+- decease_year
+- ok_to_contact
+- contact_preference
+- title: demographic
+- subtitle: NA
+- contents:
+- entry_id
+- title: genetics
+- subtitle: Basic Subject Information
+- contents:
+- genetics_former_name
+- genetics_age_at_study
+- genetics_questionnaire
+- genetics_medical_record
+- genetics_relation
+- genetics_control_details
+- title: genetics
+- subtitle: Family Structure
+- contents:
+- genetics_unique_id
+- genetics_individual_id
+- genetics_family_id_code
+- genetics_father_id
+- genetics_mother_id
+- genetics_deceased_date
+- genetics_deceased
+- title: genetics
+- subtitle: Genetics
+- contents:
+- genetics_id_1415e2
+- genetics_date
+- genetics_family_num
+- genetics_family_name
+- genetics_family_code
+- title: genetics
+- subtitle: Genetics Comments
+- contents:
+- genetics_comments
+- title: genetics
+- subtitle: NIDDK Consortium
+- contents:
+- genetics_consortium_date
+- genetics_consortium_id
+- genetics_niddk_number
+- genetics_niddk_box_number
+- title: genetics
+- subtitle: Pediatric Genetics
+- contents:
+- genetics_date_of_ped_study
+- genetics_pediatric_tier_date
+- genetics_paxgene_draw_date
+- genetics_pediatric_site
+- title: genetics
+- subtitle: Tube
+- contents:
+- genetics_lymphoblastoid_line_lb
+- genetics_dna
+- genetics_hla
+- genetics_sparks_spa
+- genetics_serum
+- genetics_saliva
+- title: genetics
+- subtitle: NA
+- contents:
+- entry_id_647e992
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: ANCESTRY
+- contents:
+- fatherfatherancestry
+- fathermotherancestry
+- motherfatherancestry
+- mothermotherancestry
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: CHILDHOOD EXPOSURE
+- contents:
+- birthathospital
+- csection
+- breastfed
+- durationofbreastfed
+- infantformula
+- cowmilk
+- antibioticsaschild
+- hospitalizedbeforeage5
+- petsorfarm
+- typeofpet
+- otherpet
+- growuponfarm
+- attenddaycare
+- hadvaccinations
+- anyone_smoke_in_house
+- childhoodallergy
+- specificallergy
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: CURRENT DIAGNOSIS
+- contents:
+- currentdiagnosis
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: CURRENT SYMPTOMS
+- contents:
+- diseaseactivity
+- currentsymptom_generalwellbeing
+- currentsymptom_abdominal_pain
+- currentsymptom_urgencydefecation
+- currentsymptom_bloodinbowel
+- currentsymptom_complications
+- othersymptom
+- currentsymptom_bowelfrequencyday
+- currentsymptom_bowelfrequencynight
+- currentsymptom_liquidstool
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: During the initial period:
+- contents:
+- ageatonset
+- initialibdsymptom
+- subject_abdominalpain
+- subject_diarrhea
+- bloodinstool
+- subject_nausea
+- subject_vomit
+- fatigue
+- jointsymptoms
+- subject_weightloss
+- amountofweightloss
+- initialvisit
+- ageatdx
+- ibddiagnosis
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: During the past 6 months:Have you had any of the following symptoms during the past 6 months?  If so, how many days in totals?
+- contents:
+- bloodystool
+- mucusinstool
+- urgencybowel
+- abdominalpainsixmonth
+- evacuation
+- liquidbowel
+- fewerstools
+- hardstool
+- constipation
+- excessivebelching
+- excessivegas
+- excessivegurgling
+- stomachgrowls
+- bloated
+- heartburn
+- nauseatedbeforebreakfast
+- indigestion
+- loss10lbsormore
+- troublewithnerves
+- problemsleeping
+- other_signs_and_symptoms
+- past_6_months
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: EDUCATION
+
+Select the highest level Completed.
+- contents:
+- education
+- spouseeducation
+- fathereducation
+- mothereducation
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: ETHNICITY
+- contents:
+- ethnic_hispanic
+- definition_of_ethnicity
+- ethnicity_nih
+- father_ethnicity
+- mother_ethnicity
+- father_father_ethnicity
+- father_mother_ethnicity
+- mother_father_ethnicity
+- mother_mother_ethnicity
+- otherethnicity1
+- ethnic_jew
+- jewish
+- ashkenazi_sephardic
+- fatherjewishtype
+- motherjewishtype
+- fatherfatherjewishtype
+- fathermotherjewishtype
+- motherfatherjewishtype
+- mothermotherjewishtype
+- otherethnicity2
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: FEMALE ONLY QUESTIONS
+- contents:
+- pregnancy
+- numberofdelivery
+- numberofprematuredelivery
+- numberofmiscarriage
+- pregnantduringibd
+- currently_pregnant
+- difficultconceiving
+- menstrualcramps
+- still_have_menstrual_periods
+- how_old_when_you_have_your_last_menstrual_period
+- periods_stop_because
+- hormone
+- currentlytakenhomonereplacement_how_long
+- howlongtakenhomonereplacement
+- take_any_birth_control_pills
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: FOOD & DIET
+- contents:
+- regulardiet
+- selectdietttype
+- carbohydrate_diet
+- gluten_free_diet
+- low_residue_diet
+- no_sugar
+- lactose_diet
+- lowfat_diet
+- minimealdiet
+- fodmapdiet
+- paleodiet
+- dietmakesibdworse
+- dietmakesibdbetter
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: General Information
+- contents:
+- countryofbirth
+- stateofbirth
+- agemovedtousa
+- where_did_you_spend_childhood
+- childhood_town_and_country
+- biological_parents_born_mother
+- biological_parents_born_father
+- height
+- weight
+- your_well_weight
+- fatherheight
+- fatherbirthyear
+- motherheight
+- motherbirthyear
+- brother
+- sister
+- son
+- daughter
+- twin
+- twintype
+- familyinibdstudy
+- ibdstudymemberrelation
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: Grandparents' Ancestry
+- contents:
+- fathersfather_jew_ancestry
+- fathersmother_jew_ancestry
+- mothersfathers_ancestry
+- mothers_mothers_jewish_ancestry
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: Have you ever had any of the following diseases/ conditions?
+- contents:
+- historicalpouchitis
+- cuffitis
+- skinfistulas
+- vaginalfistulas
+- perforation
+- acutetoxicmegacolon
+- flshperianalfissure
+- perianalabscess
+- other_disease_condition
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: IN YOUR OPINION, WHAT DO YOU THINK CAUSED THIS DISEASE?
+- contents:
+- opinioncauseby
+- opinionworseby
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: MEDICAL HISTORY (FAMILY MEMBER(S))
+- contents:
+- familyhistoryofibd2
+- numberofrelativewithibd
+- familyhistoryofibd_relation
+- condition_ibddiagnosis1
+- familyhistoryofibd_relation2
+- condition_ibddiagnosis2
+- familyhistoryofibd_relation3
+- condition_ibddiagnosis3
+- familyhistoryofibd_relation4
+- condition_ibddiagnosis4
+- familyconditions
+- familyhasconditon_ibs
+- familyconditon_ibs_relation
+- familyhasconditon_ibs_other_relation
+- familyhas_bacterial_overgrowth
+- familyhas_bacterial_overgrowth_relation
+- familyrelationother2
+- familyhasconditon3
+- familyrelation7
+- familyrelationother3
+- familyhasconditon4
+- familyrelation8
+- familyrelationother4
+- familyhasconditon5
+- familyrelation9
+- familyrelationother5
+- familyhasconditon6
+- familyrelation10
+- familyrelationother6
+- familyhasconditon7
+- familyrelation11
+- familyrelationother7
+- familyhasconditon8
+- familyrelation12
+- familyrelationother8
+- familyhasconditon9
+- familyrelation13
+- familyrelationother9
+- familyhasconditon10
+- familyrelation14
+- familyrelationother10
+- familyhasconditon11
+- familyrelation15
+- familyrelationother11
+- familyhasconditon12
+- familyrelation16
+- familyhasconditon1_1
+- familyhasconditon13
+- familyrelation17
+- familyrelationother13
+- familyhasconditon14
+- familyrelation18
+- familyrelationother14
+- familyhasconditon15
+- familyrelation19
+- familyrelationother15
+- familyhasconditon16
+- familyrelation20
+- familyrelationother16
+- familyhasconditon17
+- familyrelation21
+- familyrelationother17
+- familyhasconditon18
+- familyrelation23
+- familyrelationother18
+- familyhasconditon19
+- familyrelation24
+- familyrelationother19
+- familyhasconditon20
+- familyrelation25
+- familyrelationother20
+- familyhasconditon21
+- familyrelation26
+- familyrelationother21
+- familyhasconditon22
+- familyrelation27
+- familyrelationother22
+- familyhasconditon23
+- familyrelation28
+- familyrelationother23
+- familyhasconditon24
+- familyrelation29
+- familyrelationother24
+- familyhasconditon25
+- familyrelation30
+- familyrelationother25
+- familyhasconditon26
+- familyrelation31
+- familyrelationother26
+- familyhasconditon27
+- familyrelation32
+- familyrelationother27
+- familyhasconditon28
+- familyrelation33
+- familyrelationother28
+- familyhasconditon29
+- familyrelation34
+- familyrelationother29
+- familyhasconditon30
+- familyrelation35
+- condition_description4
+- familyrelation36
+- condition_description5
+- familyrelation37
+- condition_description6
+- familyhasconditon31
+- familyrelation38
+- familyrequiresinsulin
+- familyobese
+- familyhasconditondepression_anxiety
+- familyrelation39
+- control
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: MEDICAL HISTORY (PERSONAL)
+- contents:
+- conditions
+- current_ibd_diagnosis
+- ibs
+- bacterial_overgrowth
+- celiac_disease
+- mulitiple_sclerosis
+- sacroileitis
+- ankylosing_spondylitis
+- rheumatoid_arthritis
+- osteoarthritis
+- osteopenia
+- osteoporosis
+- hypothyroid
+- hyperthyroid
+- myasthenia_gravis
+- asthma
+- lupus
+- psoriasis
+- eczema
+- vein_thrombosis
+- pulmonary_embolism
+- bleeding_disorders
+- severe_acne
+- delayed_growth
+- liver_disease
+- tuberculosis
+- heart_disease
+- stroke
+- lymphoma
+- colon_cancer
+- depression_anxiety
+- any_cancer
+- any_cancer_description
+- any_cancer_description2
+- any_cancer_description3
+- diabetes
+- requiresinsulin
+- obese
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: MEDICAL TESTS (check all that apply)
+- contents:
+- colonoscopy
+- upper_gi_endoscopy
+- sigmoidoscopy_or_proctoscopy
+- priorstudytype5
+- barium_enema
+- ct_or_mri
+- double_balloon_endoscopy
+- small_bowel_imaging
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: MEDICATIONS
+- contents:
+- prednisone_2
+- entocort
+- solumedrol
+- iv_steroids
+- cortenemas_cortifoam
+- asacol_mesalamine
+- pentasa_mesalamine
+- lialda_mesalamine
+- colazal_balasalizide
+- apriso_mesalamine
+- azulfidine_sulfasalazine
+- dipentum_olsalazine
+- rowasa_enemas
+- canasa_suppositories
+- flagyl_metronidazole
+- cipro_ciprofloxin
+- xifaxin_rifaxamin
+- imuran_azathioprine
+- methotrexate
+- mercaptopurine
+- vsl_3
+- fos
+- percocet_vicodin_codeine
+- remicade_infliximab
+- humira_adalimumab
+- cimzia_certolizumab
+- tysabri_natalizumab
+- entyvio_vedolizumab
+- stelara_ustekinumab
+- lomotil_imodium_dto
+- advil_alleve_motrin_exce
+- cyclosporin
+- tacrolimus
+- bisphosphonate
+- calcium_vitamin_d_vit_b12
+- tpn
+- herbs_acup
+- chemotherapy
+- last_take_antibiotics
+- used_anti_acid_medications_more_than_a_week
+- medications_modifying_bile_production
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: Over the last two weeks, how many days have you been bothered by any of the following problems?
+- contents:
+- little_interest
+- feeling_down
+- trouble_falling_or_staying_asleep
+- feeling_tired
+- canceling_a_social_engagement
+- troubled_by_pain
+- passing_large_amounts_of_gas
+- problems_doing_leisure
+- feeling_relaxed
+- feeling_of_having_to_go_to_the_toilet
+- feeling_angry
+- poor_appetite
+- feeling_bad
+- trouble_concentrating
+- moving_or_speaking_slowly
+- difficultities
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: PREVIOUS SYMPTOMS
+- contents:
+- flarefrequency1
+- previoussympton
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: RACE
+- contents:
+- definition_of_race
+- race
+- fatherrace
+- motherrace
+- fatherfatherrace
+- fathermotherrace
+- motherfatherrace
+- mothermotherrace
+- otherethnicity
+- mother_otherethnicity
+- father_otherethnicity
+- fathers_father_otherethnicity
+- father_mother_otherethnicity
+- mothers_mother_otherethnicity
+- mothers_father_otherethnicity_2
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: SOCIAL HISTORY
+- contents:
+- smoking
+- smokedyear
+- smokedyear_how_many
+- smokedyear_cigarettesper_day
+- cigars_per_day_in_average
+- smokingatibddx
+- smoke_currently
+- smoke_currently_2
+- smoking_quit_year
+- restart_smoking_year
+- partnersmokes
+- expsecondhandsmoke
+- smokeother
+- alcoholuse
+- specificalcoholconsumption
+- family_occupation
+- occupation
+- spouseoccupation
+- fatheroccupation
+- motheroccupation
+- travelabroadafteribddx
+- travelingaffectibdsymptom
+- travelcountry
+- physicalactivity
+- title: phenotype_form_a1_ibd_and_healthy_control
+- subtitle: SURGERY HISTORY
+- contents:
+- surgeries
+- abdomen_surgeries
+- procedure1
+- surgerydate
+- athospital1
+- reasonforsurgery
+- procedure2
+- surgerydate2
+- athospital2
+- reasonforsurgery2
+- procedure3
+- surgerydate3
+- athospital3
+- reasonforsurgery3
+- title: phenotype_form_b1_control_and_pediatrics
+- subtitle: CURRENT SYMPTOMS
+- contents:
+- current_symptoms_peds
+- main_reason_for_visit
+- title: phenotype_form_b1_control_and_pediatrics
+- subtitle: Doctor Use Only
+- contents:
+- conditions_7e3d64
+- conditions_2
+- title: phenotype_form_b1_control_and_pediatrics
+- subtitle: PAST MEDICAL HISTORY
+- contents:
+- past_medical_history
+- specify_past_medical_history
+- abdominal_surgeries
+- specify_type_of_surgery_and_reason
+- title: phenotype_form_b1_control_and_pediatrics
+- subtitle: PUBERTAL STAGE (Pediatric Patients Only)
+- contents:
+- pubic_hair_development
+- genitalia_males_only
+- breast_development
+- title: phenotype_form_b1_control_and_pediatrics
+- subtitle: Vital Sign
+- contents:
+- dateofclinicvisit_d0dcbb
+- height_9cefaf
+- weight_e58d81
+- bmi_96a864
+- blood_pressure
+- smoking_cca7f3
+- familyrelation_b0dd31
+- familyrelation_2
+- condition_ibddiagnosis_700ba5
+- condition_ibddiagnosis_2
+- title: phenotype_form_b1_ibd
+- subtitle: Biologics Information:
+- contents:
+- dose_given_for_any_biologic
+- reason_for_initiation_of_biologics
+- other_biologics_specify
+- which_biologic_initiated_at_induction
+- biologics_regimen
+- biololgics_remicade_dose
+- biologics_regimen_maintenance_induction_remicade
+- biololgics_remicade_dosing_interval
+- biologics_regimen_cimzia
+- biologics_regimen_maintenance_induction_cimzia
+- biololgics_cimizia_dosing_interval
+- biologics_regimen_humira
+- biologics_regimen_maintenance_induction_humira
+- biololgics_humira_dosing_interval
+- biologics_regimen_simponi
+- biologics_regimen_maintenance_induction_simponi
+- biololgics_simponi_dosing_interval
+- biologics_regimen_tysabri
+- biologics_regimen_maintenance_induction_tysabri
+- biololgics_tysabri_dosing_interval
+- biologics_regimen_vedolizumab
+- biologics_regimen_maintenance_induction_vedolizumab
+- biololgics_vedolizumab_dosing_interval
+- biologics_regimen_stelara
+- biologics_regimen_maintenance_induction_stelara
+- biololgics_vedolizumab_dosing_stelara
+- biologics_regimen_other
+- biologics_regimen_maintenance_induction_other
+- biololgics_vedolizumab_dosing_other
+- enteral_caloric_intake_supplement
+- enteral_nutrition_as_primary_therapy
+- title: phenotype_form_b1_ibd
+- subtitle: CURRENT HEALTH (Past Week)
+- contents:
+- overallhealthstatus_4c53e8
+- patientoverallimpression_0d805a
+- symptomsundercontrol_9e888a
+- dailyactivity_d29df9
+- currentsymptom_bowelfrequencyday_eeb106
+- currentsymptom_bowelfrequencynight_2ea7ec
+- currentsymptom_liquidstool_7e4561
+- stooltype_264764
+- title: phenotype_form_b1_ibd
+- subtitle: CURRENT SYMPTOMS (past week)
+- contents:
+- overallimpression_0b4559
+- disease_symptons_under_control
+- limitations_daily_activities_related_to_ibd
+- title: phenotype_form_b1_ibd
+- subtitle: DISEASE ACTIVITY & CLASSIFICATION
+- contents:
+- cd
+- hbi_a2c9fb
+- hbi_generalwellbeingscore
+- hbi_abdominalpainscore
+- hbi_numberliquidstoolsscore
+- hbi_complication
+- hbi_arthritisarthralgiascore
+- hbi_iritisuveitisscore
+- hbi_erythemanodosumscore
+- hbi_pyodermagangrenosumscore
+- hbi_otherfistulascore
+- hbi_abscessscore
+- hbi_apthous_ulcers
+- harvey_bradshaw_index_score
+- montreal_classifiation
+- cd_age_at_diagnosis
+- location_164e07
+- l1ileal_605bdf
+- l1ileal_location_445963
+- l2colonic_edf97e
+- l2colonic_location_32163b
+- l3_ileo_colonic
+- l4uppergidisease_0e4a17
+- l4uppergidisease_location
+- behavior_f7b0d4
+- b1nonstricturingnonpenetrating_76b8f4
+- b2stricturing_84cff0
+- b3stricturing_3
+- perianaldiseasemodifier_d403ce
+- title: phenotype_form_b1_ibd
+- subtitle: DOCTOR USE ONLY
+
+                                      ~ Outpatient Initial Visit Note ~
+- contents:
+- currentdiagnosis_87f79e
+- other_diagnoses_conditions
+- title: phenotype_form_b1_ibd
+- subtitle: FAMILY & SOCIAL HISTORY
+- contents:
+- smoking_7a465c
+- family_history_of_ibd
+- familyrelation_0710fc
+- family_history_of_other_diseases
+- psychosocialfactor_fd47d1
+- psychosocialfactor_reason
+- title: phenotype_form_b1_ibd
+- subtitle: FOOD & DIET
+- contents:
+- regulardiet_d8ec15
+- title: phenotype_form_b1_ibd
+- subtitle: LAB RESULTS
+- contents:
+- albumin_test
+- albumin_test_date
+- albumin_result
+- esr_test
+- esr_test_date
+- esr_result
+- hemoglobin_test
+- hemoglobin_test_date
+- hemoglobin_result
+- hematocrit_test
+- hematocrit_test_date
+- hematocrit_result
+- platelets_test
+- platelets_test_date
+- platelets_result
+- crp_test
+- crp_test_date
+- crp_specify_normal_range_result
+- vitamin_d_test
+- vitamin_d_test_date
+- vitamin_d_result
+- breath_test
+- breath_test_date
+- breath_test_result
+- absolute_neutrophil_counts_test
+- absolute_neutrophil_counts_test_date
+- absolute_neutrophil_counts_test_result
+- calprotectin_test
+- calprotectin_test_date
+- calprotectin_test_result
+- anti_tnf_panel
+- infliximab_test
+- infliximab_test_date
+- infliximab_drug_level
+- infliximab_ab_level
+- adalimumab_test
+- adalimumab_test_date
+- adalimumab_drug_level
+- adalimumab_ab_level
+- certolizumab_test
+- certolizumab_test_date
+- certolizumab_drug_level
+- certolizumab_ab_level
+- tpmt_genotype_test_date
+- tpmt_genotype
+- tpmt_phenotype_test_date
+- tpmt_phenotype
+- mp_aza_6_tgn_level_test_date
+- mp_aza_6_tgn_level
+- mp_aza_6_mmpn_level_test_date_2
+- mp_aza_6_mmpn
+- ppd_test_date
+- ppd
+- quantiferon_gold_test_date
+- quantiferon_gold
+- ibd_sgi_diagnostic_test_date
+- ibd_sgi_diagnostic
+- title: phenotype_form_b1_ibd
+- subtitle: MEDICAL HISTORY
+- contents:
+- date_initial_diagnosis
+- initial_ibd_diagnosis
+- initial_diagnosis_other
+- initial_diagnosis_initial_symptoms
+- extra_gi_manifestation
+- hospitalization_incl_er_visit
+- hospitalization_incl_er_visit_2
+- hospitalization_others
+- surgery_date_medical_history
+- surgery_type_medical_history
+- surgery_type_medical_history_currently_have
+- surgery_indication
+- surgery_type_other_indication_medical_history
+- endoscopy_date_medical_history
+- endoscopy_medical_history
+- endoscopy_medical_history_other
+- mri_ct_date
+- mri_ct_medical_history
+- mri_ct_medical_history_other
+- pathology_date
+- pathology_medical_history
+- medical_history_patholgy_other
+- history_of_infection_date
+- history_of_infection_c_difficile
+- history_of_infection_date_c_difficile
+- history_of_infection_cmv
+- history_of_infection_date_cmv
+- title: phenotype_form_b1_ibd
+- subtitle: MEDICATION
+- contents:
+- sulfasalazine
+- pentasa
+- asacol
+- lialda
+- apriso
+- colazal
+- delzicol
+- prednisone
+- budesonide
+- methlprednisolone
+- rowasa
+- canasa
+- enema_suppository
+- flagyl
+- cipro
+- rifaxamin
+- mp
+- aza
+- allopurinol_w_6mpor_aza
+- mtx
+- folic_acid_w_mtx
+- cyclosporine
+- cyclosporine_tacrolimus
+- calcium
+- vitamin_d_b12
+- herbs_acupuncture
+- title: phenotype_form_b1_ibd
+- subtitle: Medication Class: Antibiotics
+- contents:
+- flagyl_current_med_dose
+- flagyl_side_effect
+- cipro_current_med_dose
+- cipro_side_effect
+- rifaxamin_current_med_dose
+- rifaxamin_side_effect
+- title: phenotype_form_b1_ibd
+- subtitle: Medication Class: Corticosteroids
+- contents:
+- prednisone_current_med_dose
+- prednisone_side_effects
+- budesonide_current_med_dose
+- budesonide_side_effect
+- methylprednisolone_current_med_dose
+- methylprednisolone_side_effect
+- title: phenotype_form_b1_ibd
+- subtitle: Medication Class: Immunomodulator
+- contents:
+- mp_current_med_dose
+- mp_side_effect
+- aza_current_med_dose
+- aza_side_effect
+- allopurinol_w_6mpor_aza_current_med_dose
+- allopurinol_w_6mpor_aza_side_effects
+- mtx_current_med_dose
+- mtx_side_effect
+- folic_acid_w_mtx_current_med_dose
+- folic_acid_w_mtx_side_effect
+- cyclosporine_current_med_dose
+- cyclosporine_side_effect
+- tacrolimus_current_med_dose
+- tacrolimus_side_effect
+- calcium_current_med_dose
+- calcium_side_effect
+- vitamin_d_b12_current_med_dose
+- vitamin_d_b12_side_effect
+- herbs_acupuncture_current_med_dose
+- herbs_acupuncture_side_effect
+- title: phenotype_form_b1_ibd
+- subtitle: Medication Class: Rectal Therapy
+- contents:
+- rowasa_current_med_dose
+- rowasa_side_effect
+- canasa_current_med_dose
+- canasa_side_effect
+- hydrocortisone_enema_suppository_current_meddose
+- hydrocortisone_enema_suppository_side_effects
+- title: phenotype_form_b1_ibd
+- subtitle: MEDICATION DOSE & SIDE EFFECT<br><br>Medication Class: 5-ASAs
+- contents:
+- current_med_dose_sulfasalazine_06f5ed
+- sulfasalazine_side_effects
+- current_med_dose_pentasa_7d3d29
+- pentasa_side_effects
+- asacol_med_dose
+- asacol_side_effects
+- lialda_current_med_dose
+- lialda_side_effects
+- apriso_current_med_dose
+- apriso_side_effects
+- colazal_current_med_dose
+- colazal_side_effects
+- delzicol_current_med_dose
+- delzicol_side_effects
+- title: phenotype_form_b1_ibd
+- subtitle: PHYSICAL EXAMINATION
+
+
+- contents:
+- physical_examination_nutritional_status
+- physical_examin_abdomen
+- phys_examin_abdomen_spec
+- physical_examin_perirectal_disease
+- perirectal_disease_other_specify
+- phys_exam_extra_intestinal_manifestations
+- phys_examin_extra_intestinal_manifestation
+- phys_examin_other_systems
+- title: phenotype_form_b1_ibd
+- subtitle: PUBERTAL STAGE AT DIAGNOSIS (Pediatric Onset Patients Only):
+- contents:
+- height_at_diagnosis
+- weight_at_diagnosis
+- public_hair_development_2
+- public_hair_development
+- genitalia_development
+- genitalia_development_2
+- breast_development_female_only_2
+- breast_development_female_only
+- title: phenotype_form_b1_ibd
+- subtitle: Symptoms
+- contents:
+- currentsymptoms_normal
+- currentsymptoms_abdominal_pain_2
+- currentsymptoms_abdominal_pain
+- currentsymptoms_diarrhea
+- currentsymptoms_blood_in_stools_2
+- currentsymptoms_blood_in_stools
+- currentsymptoms_urgencydefecation_2
+- currentsymptoms_urgencydefecation
+- currentsymptoms_constipation
+- currentsymptoms_bloating
+- currentsymptoms_nausea_vomiting
+- currentsymptoms_fever
+- currentsymptoms_38c_for_3_of_last_7_days
+- currentsymptoms_rigors_shakes
+- currentsymptoms_numbness_tingling
+- currentsymptoms_joint_pain
+- currentsymptoms_joint_pain_specified
+- currentsymptoms_other_bone_disease
+- currentsymptoms_other_symtoms
+- currentsymptoms_other_symptoms
+- title: phenotype_form_b1_ibd
+- subtitle: Type of Diet
+- contents:
+- vegdiet_8e36b1
+- carbdiet_363ca9
+- glutendiet_3fe96f
+- lowresiduediet_a965c4
+- lactosediet_c5b5d6
+- lowfatdiet_9dec7b
+- minimealdiet_d09ce3
+- fodmapdiet_c0000d
+- paleodiet_118f0a
+- nosugardiet_1ab8d7
+- supplement_22a66a
+- foodallergy_042643
+- typeoffoodallergery_ef77a2
+- any_comments_food_diet_813797
+- title: phenotype_form_b1_ibd
+- subtitle: ULCERATIVE COLITIS/ INDETERMINATE COLITIS
+- contents:
+- ucactivityindex_fe17bc
+- mayobowelfrequencyscore_3e579c
+- mayorectalbleedingscore_b9626d
+- mayomucosalappearancescore_36a406
+- mayodiseaseactivityscore_76ba8e
+- mayoscore_463650
+- uc_fbd08d
+- has_the_patient_ever_had_severe_disease_abd366
+- modified_pdai
+- modified_pdai_bowel_frequency
+- modified_pdai_rectal_bleeding
+- modified_pdai_fecal_urgency
+- modified_pdai_fever_37_8_c
+- physician_rating_of_disease_activity_9d568f
+- title: phenotype_form_b1_ibd
+- subtitle: VITAL SIGN
+- contents:
+- dateofclinicvisit_a2a002
+- bp_af9dfc
+- pulse_22d1ac
+- temp_3e3421
+- weight_5d3732
+- height_9e0485
+- bmi_68bdb8
+- title: phenotype_form_b2_ibd
+- subtitle: Biologics Information
+- contents:
+- last_visit_was_an_induction_dose_given_for_any_biologic
+- reasons_for_initiation_of_biologics
+- b_which_biologic_was_initiated_at_this_induction_dose
+- title: phenotype_form_b2_ibd
+- subtitle: Biologics regimen following today's visit, starting with next dose:
+- contents:
+- biologics_regimen_dose_remicade
+- biologics_regimen_dosing_interval_weeks_maintenance_remicade
+- biologics_regimen_dose_cimzia
+- biologics_regimen_dosing_interval_weeks_maintenance_cimzia
+- biologics_regimen_dose_humira
+- biologics_regimen_dosing_interval_weeks_maintenance_humira
+- biologics_regimen_dose_simponi
+- biologics_regimen_dosing_interval_weeks_maintenance_simponi
+- biologics_regimen_dose_tysabri
+- biologics_regimen_dosing_interval_weeks_maintenance_tysabri
+- biologics_regimen_dose_vedolizumab
+- biologics_regimen_dosing_interval_weeks_maintenance_vedolizumab
+- biologics_regimen_dose_stelara
+- biologics_regimen_dosing_interval_weeks_maintenance_stelara
+- currently_taking_an_enteral_caloric_intake_supplement
+- currently_using_enteral_nutrition_as_primary_therapy
+- title: phenotype_form_b2_ibd
+- subtitle: C. Biologics regimen following today's visit, starting with next dose:
+- contents:
+- maintenance_induction_remicade
+- maintenance_induction_cimzia
+- maintenance_induction_humira
+- maintenance_induction_simponi
+- maintenance_induction_tysabri
+- maintenance_induction_vedolizumab
+- maintenance_induction_stelara
+- title: phenotype_form_b2_ibd
+- subtitle: CURRENT HEALTH (Past Week)
+- contents:
+- overallhealthstatus
+- patientoverallimpression
+- symptomsundercontrol
+- dailyactivity
+- currentsymptom_bowelfrequencyday_935496
+- currentsymptom_bowelfrequencynight_8ef9a7
+- currentsymptom_liquidstool_95f68d
+- stooltype
+- title: phenotype_form_b2_ibd
+- subtitle: CURRENT SYMPTOMS (past week)
+- contents:
+- overallimpression
+- currentsymptom_normal
+- currentsymptom_abdominal_pain_792a7c
+- currentsymptom_diarrhea
+- currentsymptom_blood_in_stools
+- currentsymptom_urgencydefecation_c83f34
+- currentsymptom_constipation
+- currentsymptom_bloated
+- currentsymptom_nausea_vomiting
+- currentsymptom_fever
+- currentsymptom_rigors_shakes
+- current_symptom_joint_pain
+- current_symptom_other_joint_pain
+- currentsymptom_numbness_tingling
+- currentsymptom_skin_rash
+- currentsymptom_oral_ulcers
+- currentsymptom_eye_symptoms
+- current_symptom_other_symptoms
+- title: phenotype_form_b2_ibd
+- subtitle: DISEASE ACTIVITY & CLASSIFICATION
+
+ULCERATIVE COLITIS/ INDETERMINATE COLITIS
+- contents:
+- ucactivityindex
+- mayobowelfrequencyscore
+- mayorectalbleedingscore
+- mayomucosalappearancescore
+- mayodiseaseactivityscore
+- mayoscore
+- uc
+- has_the_patient_ever_had_severe_disease
+- title: phenotype_form_b2_ibd
+- subtitle: DISEASE ACTIVITY & CLASSIFICATION<br><br>CROHN'S DISEASE
+- contents:
+- hbi
+- hbigeneralwellbeingscore
+- hbiabdominalpainscore
+- hbinumberliquidstoolsscore
+- complication
+- hbiarthritisarthralgiascore
+- hbiiritisuveitisscore
+- hbierythemanodosumscore
+- hbipyodermagangrenosumscore
+- hbiotherfistulascore
+- hbiapthousstomatitisscore
+- hbiabscessscore
+- hbiperianaldiseasescore
+- harveybradshawindex
+- montrealclassifiation
+- cdageatdiagnosis
+- location
+- l1ileal
+- l1ileal_location
+- l2colonic
+- l3_ileo_colonic_location
+- l4uppergidisease
+- l4_upper_gi_location_2
+- behavior
+- b1nonstricturingnonpenetrating
+- b2stricturing
+- b3_penetrating
+- perianaldiseasemodifier
+- title: phenotype_form_b2_ibd
+- subtitle: DOCTOR USE ONLY<br><br>CURRENT DIAGNOSES
+- contents:
+- currentdiagnosis_8abf7b
+- ibd_diagnosis_change_since_last_visit
+- title: phenotype_form_b2_ibd
+- subtitle: FAMILY & SOCIAL HISTORY
+- contents:
+- smoking_4cf15e
+- smkstartdt
+- smkenddt
+- smkcurrstartdt
+- smkhowmanyperday
+- familyrelation
+- condition_ibddiagnosis
+- psychosocialfactor
+- travelcountry_0c6fc5
+- title: phenotype_form_b2_ibd
+- subtitle: FOOD & DIET
+- contents:
+- regulardiet_3c2760
+- title: phenotype_form_b2_ibd
+- subtitle: LAB RESULTS (since last visit)
+- contents:
+- lab_results_crp_1
+- lab_results_crp_2
+- lab_results_esr_1
+- lab_results_esr_2
+- lab_results_platelets_1
+- lab_results_platelets_2
+- lab_results_hematocrit_1
+- lab_results_hematocrit_2
+- lab_results_hemoglobin_1
+- lab_results_hemoglobin_2
+- lab_results_albumin_1
+- lab_results_albumin_2
+- lab_results_vitamin_d_1
+- lab_results_vitamin_d_2
+- lab_results_breath_test_1
+- lab_results_breath_test_2
+- lab_results_absolute_neutrophil_counts
+- lab_results_abs_neutrophil_counts
+- lab_results_calprotectin_1
+- lab_results_calprotectin_2
+- lab_results_infliximab
+- lab_results_infliximab_drug_level
+- lab_results_adalimumab_ab_level_result
+- lab_results_adalimumab
+- lab_results_adalimumab_ab_level
+- lab_results_adalimumab_drug_level
+- lab_results_certolizumab
+- lab_results_certolizumab_drug_level
+- lab_results_certolizumab_ab_level
+- lab_results_tpmt_genotype
+- lab_results_tpmt_phenotype
+- lab_result_6_tgn_level
+- lab_result_6_mmpn
+- lab_results_ppd
+- lab_results_quantiferon_gold
+- lab_result_others
+- title: phenotype_form_b2_ibd
+- subtitle: Medication
+- contents:
+- medication_sulfasalazine
+- medication_pentasa
+- medication_asacol
+- medication_lialda
+- medication_apriso
+- medication_coazal
+- medication_delzicol
+- medication_prednisone
+- medication_budesonide
+- medication_methylprednisolone
+- medication_rowasa
+- medication_canasa
+- medication_hydrocortisone_enema
+- medication_flagyl
+- medication_cipro
+- medication_rifaxamin
+- medication_6mp
+- medication_aza
+- medication_allopurinol_w_6mporaza
+- medication_mtx
+- medication_folic_acid_w_mtx
+- medication_cyclosporine
+- medication_tacrolimus
+- medication_calcium
+- medication_vitamin_d_b12
+- medication_herbs_acupuncture
+- title: phenotype_form_b2_ibd
+- subtitle: MEDICATION: 5-ASAs (since last visit)
+- contents:
+- current_med_dose_sulfasalazine
+- side_effect_sulfasalazine
+- current_med_dose_pentasa
+- side_effect_pentasa
+- current_med_dose_asacol
+- side_effect_asacol
+- current_med_dose_lialda
+- side_effect_lialda
+- current_med_dose_apriso
+- side_effect_apriso
+- current_med_dose_colazal
+- side_effect_colazal
+- current_med_dose_delzicol
+- side_effect_delzicol
+- title: phenotype_form_b2_ibd
+- subtitle: MEDICATION: Antibiotics (since last visit)
+- contents:
+- current_med_dose_flagyl
+- side_effect_hydrocortisone_enema_suppository_2
+- current_med_dose_cipro
+- side_effect_cipro
+- current_med_dose_rifaxamin
+- side_effect_rifaxamin
+- title: phenotype_form_b2_ibd
+- subtitle: MEDICATION: Corticosteroids (since last visit)
+- contents:
+- current_med_dose_prednisone
+- side_effect_prednisone
+- current_med_dose_budesonide
+- side_effect_budesonide
+- current_med_dose_methylprednisolone
+- side_effect_methylprednisolone
+- title: phenotype_form_b2_ibd
+- subtitle: MEDICATION: Immunomodulator (since last visit)
+- contents:
+- current_med_dose_6mp
+- side_effect_6mp
+- current_med_dose_aza
+- side_effect_aza
+- current_med_dose_allopurinol_w_6mpor_aza
+- side_effect_allopurinol_w_6mpor_aza
+- current_med_dose_mtx
+- side_effect_mtx
+- current_med_dose_folic_acid_w_mtx
+- side_effect_folic_acid_w_mtx
+- title: phenotype_form_b2_ibd
+- subtitle: MEDICATION: Other Immune Suppressants (since last visit)
+- contents:
+- current_med_dose_cyclosporine
+- side_effect_cyclosporine
+- current_med_dose_tacrolimus
+- side_effect_tacrolimus
+- title: phenotype_form_b2_ibd
+- subtitle: MEDICATION: Other Rx (since last visit)
+- contents:
+- current_med_dose_calcium
+- side_effect_calcium
+- current_med_dose_vitamin_d_b12
+- side_effect_vitamin_d_b12
+- current_med_dose_herbs_acupuncture
+- side_effect_herbs_acupuncture
+- title: phenotype_form_b2_ibd
+- subtitle: MEDICATION: Rectal Therapy (since last visit)
+- contents:
+- current_med_dose_rowasa
+- side_effect_rowasa
+- current_med_dose_canasa
+- side_effect_canasa
+- current_med_dose_hydrocortisone_enema_suppository
+- side_effect_hydrocortisone_enema_suppository
+- title: phenotype_form_b2_ibd
+- subtitle: NURSE USE ONLY
+- contents:
+- dateofclinicvisit
+- title: phenotype_form_b2_ibd
+- subtitle: PHSICAL EXAMINATION
+- contents:
+- phsical_examination_nutritional_status
+- phsical_examination_abdomen
+- phsical_examination_abdomen_other
+- phsical_examination_perirectal_disease
+- phsical_examination_perirectal_disease_other
+- phsical_examination_extra_intestinal_manifestations
+- phsical_examination_extra_intestinal_manifestations_please_specify
+- phsical_examination_other_systems
+- title: phenotype_form_b2_ibd
+- subtitle: POUCHITIS DISEASE ACTIVITY INDEX (Modified PDAI)
+- contents:
+- pdai_bowel_frequency
+- pdai_rectal_bleeding
+- pdai_fecal_urgency
+- pdai_fever_37_8_c
+- physician_rating_of_disease_activity
+- title: phenotype_form_b2_ibd
+- subtitle: RECENT MEDICAL HISTORY (since last visit)
+- contents:
+- hospitalization_recent_medical_history_date
+- hospitalization_recent_medical_history
+- hospitalization_recent_medical_history_other
+- hospitalization_recentmedical_history_surgery_date
+- recent_medical_history_indication
+- recent_medical_history_other_indication
+- recent_medical_history_indication_currently_have
+- hospitalization_recentmedical_history_endoscopy_date
+- recent_medical_history_indication_endoscopy
+- recent_medical_history_other_endoscopy
+- hospitalization_recentmedical_history_mri_ct_date
+- recent_medical_history_mri_ct
+- recent_medical_history_other_mri_ct
+- hospitalization_recentmedical_history_pathology_date
+- recent_medical_history_pathology
+- hospitalization_recentmedical_history_chest_x_ray_date
+- recent_medical_history_chest_x_ray
+- title: phenotype_form_b2_ibd
+- subtitle: Type of Diet
+- contents:
+- vegdiet_ebe611
+- carbdiet_6a1b60
+- glutendiet_bc8d27
+- lowresiduediet_11da9c
+- lactosediet_58d8f2
+- lowfatdiet_9ee537
+- minimealdiet_0c5def
+- fodmapdiet_8f44e5
+- paleodiet_ebf57c
+- nosugardiet_736e2a
+- any_comments_food_diet
+- supplement_291e9c
+- foodallergy_0cdfda
+- typeoffoodallergery_c04e02
+- title: phenotype_form_b2_ibd
+- subtitle: VITAL SIGN
+- contents:
+- height_0e1822
+- weight_e9479e
+- bp
+- pulse
+- temp
+- bmi
+- title: surgery_cd_phenotype_form
+- subtitle: NA
+- contents:
+- file_by_entry_type
+- medical_record_number
+- date_of_last_followup
+- length_of_followup
+- notes
+- pt_name
+- date_of_surgery
+- sex
+- dob
+- patient_age_at_time_of_surgery
+- bmi_surgery_cd
+- preop_meds_asa
+- preop_meds_immunomodulators_6mp_aza_6tg_mtx_mmf_csa_fk506
+- preop_meds_remicade_timing_of_doses
+- perianal_disease_y_or_n
+- perianal_fissure
+- perianal_abscess
+- perianal_fistula
+- rectovaginal_fistula
+- cd_behavior_phenotype_stricturing
+- cd_behavior_phenotype_internal_penetrating
+- cd_behavior_phenotype_perianal_penetrating
+- cd_behavior_phenotype_uc_like
+- specific_surgical_indication1
+- specific_surgical_indication2
+- indications_for_operation_perf_nonperf_both
+- location_of_disease1
+- location_of_disease2
+- smoking_history1
+- smoking_history2
+- fhx_ibd
+- fhx_ibd_y_1_2_no
+- first_operation_y_n
+- first_operation_y_1_2_no
+- time_between_last_and_current_surgery
+- type_of_prior_operations
+- type_of_surgery
+- sites_of_resection1
+- sites_of_resection2
+- anastomotic_technique1
+- anastomotic_type2
+- if_stricturoplasty_number_of_sites
+- abscess_at_surgery
+- ostomy
+- length_of_resected_segment
+- granulomas_in_resected_segment
+- granuloma_in_sb_or_colon
+- microscopic_dz_at_resection_margins
+- macroscopic_dz_at_resection_margins
+- postop_length_of_stay_days
+- readmission_within_30_days
+- postop_morbidity
+- time_to_low_residue_diet
+- ileus_intolerance_to_feeds_7_days
+- wound_infection
+- burst_abdomen
+- anastomotic_leak
+- urinary_tract_infection
+- cardio_ami
+- pneumonia
+- dvt_or_p_e_y_or_n
+- bacteraemia
+- others
+- icu_or_hd_stay_y_or_number_of_days
+- postop_prophylactic_meds1
+- postop_prophylactic_meds2
+- time_after_surgery_meds_started
+- postop_prophylactic_meds_asa
+- postop_prophylactic_meds_immunomodulators
+- postop_prophylactic_meds_biologics
+- genetic_study_evaluable_pt
+- postop_endo_incl_wce_and_flex_sig
+- comments_regarding_followup
+- routine_vs_due_to_symptoms
+- if_postop_endo_performed_why
+- recurrence1
+- recurrence2
+- endoscopic_recurrence1
+- radiologic_recurrence2
+- clinical_recurrence
+- rutgeerts_staging_of_recurrence
+- stage_of_endoscopic_recurrence
+- date_of_recurrence
+- time_to_recurrence_from_surgery
+- modified_harvey_bradshaw_score_at_time_of_recurrence
+- esr_at_time_of_recurrence
+- hct_at_time_of_recurrence
+- albumin_at_time_of_recurrence
+- comment_on_medical_intervention
+- reoperation_needed
+- title: surgery_uc_phenotype_form
+- subtitle: NA
+- contents:
+- file_entry_type
+- updated
+- mrn_surgery_uc
+- comments
+- birthdate
+- pt_name_surgery_uc
+- sex_surgery_uc
+- age
+- bmi_surgery_uc
+- age_onset
+- dz_extent
+- dz_duration
+- extraintest
+- smoking_history
+- pre_1_or_postmenopausal_2
+- date_of_lmp
+- if_premenopausal_and_using_bcp_name_and_dose
+- fhx_of_ibd
+- if_fhx_uc_cd_or_both
+- indication_for_surgery_disease_activity
+- natural_hx_class_acute
+- nd_indication_for_surgery
+- csa
+- mp_surgery_uc
+- other_immunorx
+- colectomy_date
+- date_of_stoma_closure
+- of_stages
+- backwash
+- perianal_dz
+- transmural_dz
+- any_doubts_re_dx
+- why_dxitic_issue
+- crp
+- preop_wireless_capsule_done
+- findings_on_wce
+- sbft_results
+- preop_egd
+- endoscopic_gastritis
+- histologic_gastritis
+- platelet_count
+- preoperative_dz_classification
+- reasons_for_ibdu_cd_diagnosis
+- classification_for_ibdu_dx
+- postop_length_of_stay
+- surgery_uc_postop_morbidity1
+- surgery_uc_postop_morbidity2
+- major_medical
+- minor_medical
+- major_surgical
+- minor_surgical
+- postoperative_disease_classification
+- reasons_for_postoperative_ic_cd_diagnosis
+- classification_for_ic_dx
+- pyloric_gland_metaplasia
+- paneth_cell_metaplasia
+- surgery_uc_length_of_followup
+- surgery_cd_pouchitis
+- chronic_pouchitis
+- of_acute_pouchitis_episodes
+- time_to_psc
+- final_outcome
+- how_cd_dxd
+- fleshner_inflamm_1_padz_2
+- shen_classification
+- rx_required
+- pouch_failure

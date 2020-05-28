@@ -1,11 +1,11 @@
 Package: dddown
-Title: What the Package Does (One Line, Title Case)
+Title: Create A Website for Your Data Dictionary
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Gregory",
+           family = "Botwin",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "gbotwin@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: GPL-3
@@ -14,6 +14,13 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
 Imports: 
-    readxl
+    pkgdown,
+    usethis,
+    readr,
+    janitor,
+    dplyr,
+    magrittr
 Suggests: 
     testthat
+Depends: 
+    R (>= 2.10)

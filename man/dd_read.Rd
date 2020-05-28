@@ -4,13 +4,13 @@
 \alias{dd_read}
 \title{Read in Data Dictionary}
 \usage{
-dd_read(path_to_dd)
+dd_read(dd_file)
 }
 \arguments{
-\item{path_to_dd}{path to the xls or xlsx formatted data dictionary}
+\item{dd_file}{path to the csv formatted data dictionary}
 }
 \value{
-
+a tibble.
 }
 \description{
 Read in Data Dictionary

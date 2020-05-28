@@ -1,0 +1,14 @@
+# Notes
+- The Description Title is the text viewed on the Tab in the browswer
+- The Description Title and Description due not line up with README/first page of website
+- pkgdown only makes referene to documented functions??
+- create_package check_name = FALSE because data dictionary not expected to be submitted to cran
+-create_package set open = FALSE do not want new package to open for end user
+- it is best to use this package not in an existing package since it will create a new directory for you
+- going to need a function to test data dictionary is properly formatted
+- should create file overwrite
+
+
+
+dd <- dd_read("~/Downloads/test-case-01-data-dictionary.csv")
+write_refe

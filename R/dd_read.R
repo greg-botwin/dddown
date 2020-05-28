@@ -1,11 +1,16 @@
 #' Read in Data Dictionary
 #'
-#' @param path_to_dd path to the xls or xlsx formatted data dictionary
+#' @param dd_file path to the csv formatted data dictionary
 #'
-#' @return
+#' @return a tibble.
+#'
 #' @export
-#'
-#' @examples
-dd_read <- function(path_to_dd){
-  readxl::read_excel(path = "path_to_dd")
+
+dd_read <- function(dd_file){
+  dd <- readr::read_csv(file = dd_file)
+  base::colnames(dd) <- janitor::make_clean_names(colnames(dd))
+  #if (!all(dd$field_type %in% FIELD_TYPE_DESCRIPTION$field_type)) return error
+  #if (!all(dd$text_validation_type_or_show_slider_number %in% VALIDATION_TYPE_EXAMPLE$validation_annotation)) return error
+  return(dd)
 }
+
